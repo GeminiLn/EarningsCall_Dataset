@@ -26,6 +26,6 @@ In each folder, we put the processed text transcript and segmented audio recordi
 
 In the processed text transcript, each line is a sentence of CEO, ordered by time. 
 
-For the segmented audio recordings, they are named as "Speaker_Paragraph_Sentence". Since in our Iterative Forced Alignment (IFA) processing, the whole audio recording is firstly segmented on paragraph level, then the sentence level. The order of segmented audio recordings as from "Speaker_1_1", "Speaker_1_2", "Speaker_1_m<sub>1" to "Speaker_n_m<sub>n", where m<sub>x represents the number of sentences of paragraph x, and n represents the number of paragraphs.
+For the segmented audio recordings, they are named as "Speaker_Paragraph_Sentence". Since in our Iterative Forced Alignment (IFA) processing, the whole audio recording is firstly segmented on paragraph level, then the sentence level. The order of segmented audio recordings as from "Speaker_1_1", "Speaker_1_2", "Speaker_1_m<sub>1</sub>" to "Speaker_n_m<sub>n</sub>", where m<sub>x</sub> represents the number of sentences of paragraph x, and n represents the number of paragraphs.
 
 Each line in the text file corresponds to an audio file. And the total number of lines in a text file is the same as the total number of audio files for the same earnings conference call.
