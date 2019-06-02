@@ -1,0 +1,113 @@
+Good morning everyone and thanks for joining us
+I want to start our call today by looking back
+2016 was a transformative year for us
+Transformations are difficult, and this one was especially challenging
+We started 2016 by resetting and focusing on why people use Twitter
+It's the fastest way to see what's happening, and what everyone is talking about
+We reset and refocused on our strengths, and we achieved one of the hardest things to do for a consumer services scale
+We reversed and reaccelerated our usage
+We're thrilled to report that daily active usage accelerated for the third quarter in a row, and we see that strong growth continuing
+We did this by making the experience a little better every single day
+It may have felt like we weren't changing much this past year, but those hundreds of little changes added up to more predictable and sustained growth we will now use as a foundation to be more inventive and to take bigger risks
+And that's exactly what we are now going to do
+We said on our last call that revenue growth will lag usage
+As you see in our numbers and our outlook, this has proven to be the case
+Our advertisers need the same approach we apply to our consumer service, reset and focus on our strengths
+This means clearly differentiating and complementing Twitter's real-time nature, and proving to advertisers that Twitter is easy and works for them and their customers
+2016 challenge was reaccelerating our consumer usage
+We did it, and that gives us the confidence we can do it again
+2017's challenge is simplifying and differentiating our revenue products
+It will take time to show the results we all want to see, and we are moving forward aggressively
+The whole world is watching Twitter
+While we may not be meeting everyone's growth expectations, there's one thing that continues to grow and outpace our peers: Twitter's influence and impact
+You don't go a day without hearing about Twitter, how it is used as the fastest way to send a message to the world in an instant, how it carries some of the most important commentary and conversations, how it mobilize people into action
+That's powerful, it's valuable, it's fundamental, and it's the reason we're all here fighting so hard for the service and company we love
+It's been hard, it will continue to be hard, and it's all worth it
+Twitter changed the way the world communicates
+And we'll do it again
+And now back to Krista for questions
+Hey, John thanks for the question
+So we spent a lot of our time in 2016 really focused on making sure that we have identified and clarified to the team and into our priorities what matters most in terms of the use case
+So the use case that is fundamental to Twitter is being able to show what's happening immediately, being able to get people their news immediately, about anything that's new and noteworthy, and also to show all the commentary and conversations around it
+So that led us to one of the most important areas, which is the home timeline, and making that more relevant, not just recent notifications, making those more relevant, so that we can tell people what's breaking, and what they should be, what they should direct their attention to, and easier onboarding and also easier ways to tweet
+We've done a lot of work across those four areas, and we're really excited that we're actually seeing that in the results as well
+Something that we launched just recently was our Explore tab which is a different way of organizing information on Twitter based around topics
+So we organized search, moments, trends and topics into one area that you could go to after you exhaust your timeline to find new things that are happening in the world and new topics that you might be interested in and ultimately want to follow
+So the majority of our effort will continue to be in the timeline and in notifications to make that simpler and easier for people to see what's happening, but also to participate and converse
+But we're going to put a lot of attention into Explore, and making sure that we show more topics faster
+This is also an area where we can show off our live streaming games, debates, elections, and events
+So it's an easier place to find any time that there's something live going on at Twitter, and any topic that you might find or hear about in the world that you want to dive into on Twitter as well
+We're also using the foundation that we built in 2016, and all the growth that we are now seeing from that focus as an opportunity to take some bigger risks and to take some bigger bets within the consumer product as well, and nothing to announce today but we have some ideas that we are currently exploring
+Thank you
+And in terms of the bigger bets, we did make a big bet in live streaming and bringing that to the platform, and that was an entirely new experience that we were able to build in just three months
+So we executed really well to create an experience that is consistent with how we've seen people use Twitter for the past 10 years, which is commenting and having conversation about a live event
+What we did was make it a lot easier to see anywhere
+So if you are on the train or commuting home or commuting to work or at the office, you can see the NFL game or you can see the debate anywhere you are
+So we're looking at all the patterns that we've seen for the past 10 years on how people use Twitter and to create experiences around that that make it easier to share what's happening, to talk about what's happening and to see it much faster
+The other thing that we're investing a lot in is making sure that we apply machine learning more broadly around our entire experience
+We recently hired Jan Peterson (12:00) to consolidate all of our science efforts, all of our deep learning, all of our machine learning and artificial intelligence, so that we can get a lot smarter and provide more magical experiences for people around showing them what's breaking in real time and giving them a sense of what's going on without having to do as much work as they currently have to do on the platform
+So we're looking at a lot of opportunities to organize all the tweets around relevance but also around the topics and the interest and the passions that people care about
+We have a really unique differentiator in Twitter, and that people come to us because of interest and build interest networks around that, and we think there's a lot of room for new experiences around that
+It seems like there's still a lot of opportunity to see even more as we make it easier and easier for people to tweet, and we focus a lot more on topics that people want to talk about and participate with
+And Youssef on the leadership team, so late last year we really flattened the organization, so that we could elevate engineering product and design, so they report directly to me, so I could be a lot closer to the products
+Now that we spent a year really going through and making sure that we reset the foundation on what we're executing, what our priorities are and how we execute from an engineering perspective, we have a lot more confidence that we can move a lot faster on bigger things because we have taken care of a lot of the things that were just not simple enough, and a lot of the (27:25) that we needed to address immediately, so that we could develop much faster and bring new experiences to life
+I'm really confident in this team
+Ed Ho is leading all of our consumer service
+He's been with the company for over two years and he's shown a lot of great promise and he led a lot of our effort to make sure that we're focused on the right initiatives to actually reaccelerate our growth and has proven a lot to the company and also to his team
+He's also been able to attract really senior product leads as well, Keith Coleman being the most recent, who also brought an amazing engineering team with him to lead the consumer products efforts
+And then we've been consolidating organizations to build our strength, most notably in our machine learning and artificial intelligence efforts, which is critical to us being able to move much faster
+So Jan Peterson (28:25) joined and is now just doing the work to get everyone on the same page and make sure that we have a platform internally that every team can use to provide better and more magical experiences on Twitter through machine learning and artificial intelligence
+And this focus and this team allows me and gives me a lot of confidence that I can continue to focus on the most meaningful things at both companies and we have the right prioritization in front of us
+Thank you
+On your first question what I would say is that the President's use of Twitter has broadened the awareness of how the platform can be used and it shows the power of Twitter
+When he tweets, it sparks conversation and discussion
+So at a macro level discussion on the platform really helps us be the best at showing what's happening in the world and more discussions strengthens our key differentiators in comprehensive and fast
+From a quantitative perspective, what I'd say is each quarter we measure and analyze factors that drive causal growth in the audience not coincident growth
+In the fourth quarter, the primary driver of our growth was, as I said earlier, product changes and marketing
+We also look at a couple of other factors to see if there's any significant changes in those trendlines
+So we're top of the funnel is one of those areas that could've benefited and we do not see a benefit to the top of the funnel from all of the activity throughout the election time period
+As it relates to impressions growth, which is another area we look at, as I mentioned earlier, the magnitude of the impressions of the platform is so large, it'd be very hard for an event or a single person to drive sustained growth in impressions growth
+All of that said, having the world's leaders on our platform, talking about global issues, people being passionately expressing their points of view, that's all positive for Twitter, and that's what we're focused on
+So any time that we can drive faster distribution of content, more comprehensive of content, more discussion, or more personalization, we're better at delivering what's happening in the world and what's being talked about
+But we can't quantify any impact at this point in time but we'll continue to analyze it as we go through Q1 and talk to you at the end of the quarter
+As it relates to your second question, listen, the environment has definitely been more competitive throughout 2016 than 2015. On prior calls, we've talked about the fact that there are more large-scale players in digital advertising and social advertising budgets now than in prior years
+That's only increased throughout 2016. In 2017, I think what we saw in mid-January, as it relates to acceleration of competitive factors, it's really when advertisers start to ramp up their spending coming out of the fourth quarter
+February is a time period that historically has been up 35% to 40% versus January, and that ramp really starts in mid-January through February and that's when we saw more marketplace challenges in our ability to attract demand from advertisers
+I think there's a number of factors behind that
+More players, more innovation, some of the competitors have a lot more at stake at this moment in time
+The good news is revenue follows audience
+We're seeing an acceleration in audience growth
+We want to translate that into revenue dollars
+That requires us proving ROI
+We're in the process of doing that with our advertisers
+In addition to that, we're focused on other revenue streams that are not ad driven, and areas of low hanging opportunity where we have audiences that aren't being monetized
+And the final point I'd make is what we're doing in video positions us to capture ad dollars that are not in this very competitive digital advertising bucket, and we've started to tap into those dollars through our live video product and we'll continue to invest in that area as well
+Yes
+We did focus a lot of our attention early on in building out live events and live premium video on the experience, as Anthony said earlier
+Now our focus is making sure that we are connecting people faster with their interests and with the topics they care about, and that includes being able to watch an event directly on Twitter
+So the Explore tab is one area that you'll be able to go to for any live event but we're also looking at other areas that gets you to that much faster if you express an interest in a debate, for instance, or in a game or in a new show or entertainment
+So this is the focus of the team and something that we're going to make a lot of progress on this year
+As Anthony said, we focused all of 2016 on making sure that we are really aligned around that one use case of showing what's happening before anyone else, being the best place to get your news and all the conversation and commentary that's going on in the world
+So we made tough choices, not just with Fabric but also with things like Vine so that we could make sure that we're putting all of our effort behind Twitter and what has made Twitter great over the past 10 years and looking for new opportunities to extend that use case and extend that sense of what's happening and live video is a big focus of that as well
+So everything that we're doing around live streaming premium video within the app and also with individual-created, live-streaming video in Periscope has been the majority of our focus and we wanted to cut everything that did not go against that and did not matter
+And, Brian, I would say – I don't know if it's surprising but every single year the fact that Twitter just grows in its impact and influence and how instrumental it is in the global conversation, how essential it's become as one of the first places people go to, to get a sense of what people are thinking and what people are saying about any global event
+It's a lot closer to home right now with a lot of this conversation happening around the U.S
+election and the administration
+And that's been amazing to see unfold and definitely been a learning moment for us
+But I think the thing that constantly inspires me is just how important, how essential Twitter continues to become
+And as I look into 2017 and we look at what we can do, I just think the superpower we really provide the world is we can break news and get information to people faster than any other service in the world
+And in order to do that, people have to do just a ton of work right now to dig through everything that may not matter to them to find something that really does
+And that's why I am excited about really making sure that we apply artificial intelligence and machine learning in the right ways and that we really meet that superpower of being that little bird that told you something that you couldn't find anywhere else
+And that when you get into the application and when you get into the service, that it is as easy as looking out the window to see what's going on
+And we have a lot of work to do
+We have a lot of tabs
+We have a lot of syntax that we still put in front of people and it should be as easy as just opening up your phone or the webpage and you instantly get a sense of what matters most, what people are thinking about it and how to contribute and how to participate
+And I really believe in and confident that we can get this to something much simpler for everyone within this year and that excites me a lot
+We've hit the 10-year mark
+We're about to be 11 and this is a company that endures and lasts and thrives
+Yeah
+So in closing, as I said, I've never been more sure of the value Twitter brings to people in our world
+People trust us to carry some of the most important conversations, commentary, critique, events, ideas and questions in the world
+We've proven now that our focus works and we need to apply the same approach to our revenue products and help our advertisers
+In doing so advances us towards our ultimate goal of building a company and service that empowers generation after generation
+I want to thank you all for your time, your support and we'll see you on Twitter
