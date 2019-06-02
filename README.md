@@ -1,6 +1,6 @@
 # EarningsCall_Dataset
 This is the earnings conference call dataset of S&P 500 companies in 2017. 
-Since the dataset includes text transcripts and corresponding audio recordings, it is too large to put on GitHub, we upload our dataset on Dropbox, please check the link to download our dataset.
+Since the dataset includes text transcripts and corresponding audio recordings, it is too large to put on GitHub. We put a few examples in this repository, and upload our complete dataset on Dropbox, please check the [link]() to download the complete dataset.
 
 # Citation
 If you use this data in your research please cite the following paper:
