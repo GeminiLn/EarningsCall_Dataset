@@ -2,7 +2,7 @@
 
 This is the earnings conference call dataset of S&P 500 companies in 2017. 
 
-Since the dataset includes text transcripts and corresponding audio recordings, it is too large to put on GitHub. We put a few examples in this repository, and upload our complete dataset on Dropbox, please check the [link]() to download the complete dataset.
+Since the dataset includes text transcripts and corresponding audio recordings, it is too large to put on GitHub. We put a few examples in this repository, and upload our complete dataset on Google Drive, please check the [link]() to download the complete dataset.
 
 # Citation
 
@@ -10,12 +10,16 @@ If you use this data in your research please cite the following paper:
 
 Qin, Yu., & Yang, Yi. (2019). What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
 
-    @inproceedings{qin2019financial,
-      title={What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues},
-      author={Qin, Yu and Yang, Yi},
-      booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-      pages={xxx--xxx},
-      year={2019}
+    @InProceedings{P19-xxxx,
+      author =  "Qin, Yu
+        and Yang, Yi",
+      title =   "What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues",
+      booktitle =   "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      year =  "2019",
+      publisher =   "Association for Computational Linguistics",
+      pages =   "xx--xx",
+      location =  "Florence , Italy",
+      url =   ""
     }
 
 # Annotation Format
