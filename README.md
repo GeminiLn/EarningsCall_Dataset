@@ -11,8 +11,7 @@ If you use this data in your research please cite the following paper:
 Qin, Yu., & Yang, Yi. (2019). What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
 
     @InProceedings{P19-xxxx,
-      author =  "Qin, Yu
-        and Yang, Yi",
+      author =  "Qin, Yu and Yang, Yi",
       title =   "What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues",
       booktitle =   "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
       year =  "2019",
