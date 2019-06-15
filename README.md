@@ -1,10 +1,18 @@
-# EarningsCall_Dataset
+# What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues
+
+by Yu Qin and Yi Yang, ACL 2019.
+
+## Abstract
+
+Predicting financial risk is an essential task in financial market. Prior research has shown that textual information in a firm's financial statement can be used to predict its stock's risk level. Nowadays, firm CEOs communicate information not only verbally through press releases and financial reports, but also nonverbally through investor meetings and earnings conference calls. There are anecdotal evidences that CEO's vocal features, such as emotions and voice tones, can reveal the firm's performance. However, how vocal features can be used to predict risk levels, and to what extent, is still unknown. To fill the gap, we obtain earnings call audio recordings and textual transcripts for S\&P 500 companies in recent years. We propose a multimodal deep regression model (MDRM) that jointly model CEO's verbal (from text) and vocal (from audio) information in a conference call. Empirical results show that our model that jointly considers verbal and vocal features achieves significant and substantial prediction error reduction. We also discuss several interesting findings and the implications to financial markets. The processed earnings conference calls data (text and audio) are released for readers who are interested in reproducing the results or designing trading strategy.
+
+## About This Repo
 
 This is the segmented earnings conference call dataset of S&P 500 companies in 2017. 
 
 Since the dataset includes text transcripts and corresponding audio recordings, it is too large to put on GitHub. We put a few examples in this repository, and upload our complete dataset on Google Drive, please check the [link](https://drive.google.com/file/d/15wtWZvSJicF_Ur2V45lCyCjNJQ7QfXth/view?usp=sharing) to download the complete dataset.
 
-# Citation
+## Citation
 
 If you use this data in your research please cite the following paper:
 
@@ -21,7 +29,7 @@ Qin, Yu., & Yang, Yi. (2019). What You Say and How You Say It Matters: Predictin
       url =   ""
     }
 
-# Annotation Format
+## Annotation Format
 
 Each folder in our dataset represents an earnings conference call; the folders are named as "CompanyName_Date".
 
