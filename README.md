@@ -41,5 +41,5 @@ For the segmented audio recordings, they are named as "Speaker_Paragraph_Sentenc
 
 Each line in the text file corresponds to an audio file. And the total number of lines in a text file is the same as the total number of audio files for the same earnings conference call.
     
-# Contact
+## Contact
 If you have any questions regarding the repo, please contact Yu Qin (<qinyu.gemini@gmail.com>) or create an issue.
