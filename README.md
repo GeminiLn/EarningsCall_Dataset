@@ -14,7 +14,7 @@ Since the dataset includes text transcripts and corresponding audio recordings, 
 
 ## Citation
 
-If you use this data in your research please cite the following paper:
+If you use this data in your research, please cite the following paper:
 
 Qin, Yu., & Yang, Yi. (2019). What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
 
