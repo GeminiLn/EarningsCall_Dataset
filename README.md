@@ -16,18 +16,19 @@ Since the dataset includes text transcripts and corresponding audio recordings, 
 
 If you use this data in your research, please cite the following paper:
 
-Qin, Yu., & Yang, Yi. (2019). What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
+Qin, Yu., & Yang, Yi. (2019). What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
 
-    @InProceedings{P19-xxxx,
-      author =  "Qin, Yu and Yang, Yi",
-      title =   "What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues",
-      booktitle =   "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-      year =  "2019",
-      publisher =   "Association for Computational Linguistics",
-      pages =   "xx--xx",
-      location =  "Florence , Italy",
-      url =   ""
-    }
+    @inproceedings{qin-yang-2019-say,
+    title = "What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues",
+    author = "Qin, Yu  and
+      Yang, Yi",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1038",
+    pages = "390--401",}
 
 ## Annotation Format
 
