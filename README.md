@@ -1,4 +1,4 @@
-# What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues
+# What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues
 
 by Yu Qin and Yi Yang, ACL 2019.
 
