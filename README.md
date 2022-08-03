@@ -10,7 +10,7 @@ Predicting financial risk is an essential task in financial market. Prior resear
 
 This is the segmented earnings conference call dataset of S&P 500 companies in 2017. 
 
-Since the dataset includes text transcripts and corresponding audio recordings, it is too large to put on GitHub. We put a few examples in this repository, and upload our complete dataset on Google Drive, please check the [link](https://drive.google.com/file/d/15wtWZvSJicF_Ur2V45lCyCjNJQ7QfXth/view?usp=sharing) to download the complete dataset.
+Since the dataset includes text transcripts and corresponding audio recordings, it is too large to put on GitHub. We put a few examples in this repository, and upload our complete dataset on Google Drive, please check the [link](https://drive.google.com/drive/folders/1BKCANORbcmUJKkOkBOghw6uNHPqS_az1?usp=sharing) to download the complete dataset.
 
 ## Citation
 
