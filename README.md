@@ -12,6 +12,11 @@ This is the segmented earnings conference call dataset of S&P 500 companies in 2
 
 Since the dataset includes text transcripts and corresponding audio recordings, it is too large to put on GitHub. We put a few examples in this repository, and upload our complete dataset on Google Drive, please check the [link](https://drive.google.com/drive/folders/1BKCANORbcmUJKkOkBOghw6uNHPqS_az1?usp=sharing) to download the complete dataset.
 
+The whole dataset is split to five files, please download all the files and unzip them. 
+
+To unzip the dataset under Linux environment, please first use `zip -s0 ACL19_Release.zip --out ACL19_Release_All.zip` to merge the files.
+Then use `unzip -q ACL19_Release_all.zip` to unzip the dataset.
+
 ## Citation
 
 If you use this data in your research, please cite the following paper:
